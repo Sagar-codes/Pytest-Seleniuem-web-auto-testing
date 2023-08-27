@@ -1,6 +1,6 @@
 1. Intro To Pytest
 2. How to install pytest
-3. Rin 1st Test In Pytest
+3. Run 1st Test In Pytest
 4. Assertions in Pytest
 5. Run Multiple test and subset of a test.
 6. Group Test Using Markers
